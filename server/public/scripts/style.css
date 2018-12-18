@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    max-width: 768px;
+    margin: 0px auto;
+    background-color: grey
+}
+
+h1 {
+    text-align: center;
+    background-color: lemonchiffon;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    background-color: white;
+    margin: 5px;
+}
+
+.salary-class {
+    float: right;
+    background-color: ivory;
+}
+
+.spacer5 {
+    height: 5px;
+  }
